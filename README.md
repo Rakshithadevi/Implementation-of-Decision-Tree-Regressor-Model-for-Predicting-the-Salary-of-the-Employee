@@ -55,12 +55,32 @@ dt.predict([[5,6]])
 
 ## Output:
 ## data.head():
+![image](https://user-images.githubusercontent.com/94165326/173088297-ede45bc9-690f-4ea4-8d68-ccda259a3c57.png)
+
+
 ## data.info():
+![image](https://user-images.githubusercontent.com/94165326/173088343-5192c32b-1c13-4de2-bce2-de132cd1688e.png)
+
+
 ## data.isnull():
+![image](https://user-images.githubusercontent.com/94165326/173088392-95e5a517-b303-4b0f-8c25-3c97b1e0f4ef.png)
+
+
 ## data.head() using labelencoder:
+![image](https://user-images.githubusercontent.com/94165326/173088429-7800fa18-77bd-4b3e-8f95-f1615c585837.png)
+
+
 ## Mean squared error:
+![image](https://user-images.githubusercontent.com/94165326/173088634-013a754f-3362-4d07-8370-9795d5507b60.png)
+
+
 ## R2:
+![image](https://user-images.githubusercontent.com/94165326/173088669-556a4a6b-be87-48bb-92b6-328f15ea8939.png)
+
+
 ## prediction:
+![image](https://user-images.githubusercontent.com/94165326/173088717-5cf102b8-2d91-493f-88fb-126b9758e9df.png)
+
 
 
 
